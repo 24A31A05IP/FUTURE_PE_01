@@ -4,22 +4,26 @@ Headline: Your Perfect Cup is Just a Visit Away. Sub-line: Step into Cafe Coffee
 
 
  Order CTA (Menu / Beverages Section)
-Headline: Craving Something Brew-tituli? Sub-line: From bold espressos to creamy frappés — your favourite cup is just one click away.
+Headline: Craving Something Brew-tituli?
+Sub-line: From bold espressos to creamy frappés — your favourite cup is just one click away.
 
 
 
  Hangout CTA (Workspace / Ambience Section)
-Headline: Work. Chill. Repeat. Sub-line: Free Wi-Fi, comfy corners, and coffee that keeps you going — your second home in Kakinada is ready.
+Headline: Work. Chill. Repeat. 
+Sub-line: Free Wi-Fi, comfy corners, and coffee that keeps you going — your second home in Kakinada is ready.
 
 
 
  Celebration CTA (Events / Bookings Section)
-Headline: Let's Make Your Moments Memorable. Sub-line: Birthdays, hangouts, or team meets — book your cosy corner and we'll handle the rest.
+Headline: Let's Make Your Moments Memorable.
+Sub-line: Birthdays, hangouts, or team meets — book your cosy corner and we'll handle the rest.
 
 
 
  Final CTA (Footer / Closing Section)
-Headline: A Lot Can Happen Over Coffee — Let It Happen Here. Sub-line: Join thousands of happy coffee lovers in Kakinada who've made Cafe Coffee Day their favourite hangout. Your cup is waiting. 
+Headline: A Lot Can Happen Over Coffee — Let It Happen Here.
+Sub-line: Join thousands of happy coffee lovers in Kakinada who've made Cafe Coffee Day their favourite hangout. Your cup is waiting. 
 
 
 
