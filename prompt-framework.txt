@@ -1,12 +1,12 @@
 Cafe Coffee Day — Kakinada | Website Copy
-🏠 Homepage
+ Homepage
 Headline Your Favourite Coffee Moments, Now in the Heart of Kakinada.
 
 Subheadline Freshly brewed coffee, soul-warming bites, and a cozy corner to call your own — every single day.
 
-Introduction Welcome to Cafe Coffee Day, Kakinada — where every cup tells a story and every visit feels like coming home. Whether you're catching up with old friends, powering through work, or simply craving that perfect cappuccino, we've created a space that blends rich aromas, hearty flavours, and warm hospitality. From the first sip of our signature espresso to the last bite of our chocolate-loaded desserts, we promise an experience that's as comforting as it is memorable. Step in, slow down, and let the good times brew. ☕
+Introduction Welcome to Cafe Coffee Day, Kakinada — where every cup tells a story and every visit feels like coming home. Whether you're catching up with old friends, powering through work, or simply craving that perfect cappuccino, we've created a space that blends rich aromas, hearty flavours, and warm hospitality. From the first sip of our signature espresso to the last bite of our chocolate-loaded desserts, we promise an experience that's as comforting as it is memorable. Step in, slow down, and let the good times brew. 
 
-☕ Services Page
+ Services Page
 1. Signature Coffees & Beverages From bold espressos and creamy cappuccinos to indulgent frappés and refreshing cold brews — our handcrafted drinks are made with premium beans roasted to perfection. Whether you like it hot, iced, or blended, there's a cup with your name on it.
 
 2. Gourmet Food & Quick Bites Hungry? We've got you covered. Tuck into wood-fired pizzas, loaded sandwiches, creamy pastas, crispy nachos, and freshly baked pastries — perfectly crafted to pair with your favourite brew.
@@ -19,8 +19,9 @@ Introduction Welcome to Cafe Coffee Day, Kakinada — where every cup tells a st
 
 6. Takeaway & Online Orders Short on time? Grab your favourites on-the-go or order online for quick pickup — same great taste, zero wait.
 
-📣 CTA Section
-Headline: Crave a Cup? We're Just Around the Corner. Sub-line: Visit Cafe Coffee Day Kakinada today — your perfect brew, bite, and break are waiting.
+ CTA Section
+Headline: Crave a Cup? We're Just Around the Corner.
+Sub-line: Visit Cafe Coffee Day Kakinada today — your perfect brew, bite, and break are waiting.
 
-Buttons: 👉 Order Online | 📍 Find Us in Kakinada | 📞 Book Your Table
+
 
