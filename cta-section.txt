@@ -1,30 +1,28 @@
-☕ Cafe Coffee Day — Persuasive CTA Sections
-🌟 Primary CTA (Hero / Above the Fold)
+ Cafe Coffee Day — Persuasive CTA Sections
+ Primary CTA (Hero / Above the Fold)
 Headline: Your Perfect Cup is Just a Visit Away. Sub-line: Step into Cafe Coffee Day, Kakinada — where every sip sparks a story and every moment feels just right.
 
-👉 [ Visit Us Today ] 📞 [ Reserve Your Table ]
 
-☕ Order CTA (Menu / Beverages Section)
+ Order CTA (Menu / Beverages Section)
 Headline: Craving Something Brew-tituli? Sub-line: From bold espressos to creamy frappés — your favourite cup is just one click away.
 
-🛍️ [ Order Online Now ] 📋 [ Explore the Menu ]
 
-💼 Hangout CTA (Workspace / Ambience Section)
+
+ Hangout CTA (Workspace / Ambience Section)
 Headline: Work. Chill. Repeat. Sub-line: Free Wi-Fi, comfy corners, and coffee that keeps you going — your second home in Kakinada is ready.
 
-📍 [ Find Your Spot ]
 
-🎉 Celebration CTA (Events / Bookings Section)
+
+ Celebration CTA (Events / Bookings Section)
 Headline: Let's Make Your Moments Memorable. Sub-line: Birthdays, hangouts, or team meets — book your cosy corner and we'll handle the rest.
 
-🎂 [ Book an Event ] 💬 [ Talk to Us ]
 
-📣 Final CTA (Footer / Closing Section)
-Headline: A Lot Can Happen Over Coffee — Let It Happen Here. Sub-line: Join thousands of happy coffee lovers in Kakinada who've made Cafe Coffee Day their favourite hangout. Your cup is waiting. ☕
 
-✨ [ Visit Cafe Coffee Day Today ] 📍 Find us in the heart of Kakinada | Open Daily, 10 AM – 11 PM
+ Final CTA (Footer / Closing Section)
+Headline: A Lot Can Happen Over Coffee — Let It Happen Here. Sub-line: Join thousands of happy coffee lovers in Kakinada who've made Cafe Coffee Day their favourite hangout. Your cup is waiting. 
 
-💡 Bonus — Limited-Time Offer CTA
-Headline: Buy 1 Coffee, Get 1 on Us! ☕✨ Sub-line: Bring a friend, share a cup, double the joy. Offer valid this week only at Cafe Coffee Day, Kakinada.
 
-🔥 [ Grab the Offer ]
+
+ Bonus — Limited-Time Offer CTA
+Headline: Buy 1 Coffee, Get 1 on Us! 
+Sub-line: Bring a friend, share a cup, double the joy. Offer valid this week only at Cafe Coffee Day, Kakinada.
